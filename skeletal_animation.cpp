@@ -501,16 +501,6 @@ int main()
         // input
         // -----
         processInput(window);
-        if (glfwGetKey(window, GLFW_KEY_1) == GLFW_PRESS)
-            animator.PlayAnimation(&idleAnimation, NULL, 0.0f, 0.0f, 0.0f);
-        if (glfwGetKey(window, GLFW_KEY_2) == GLFW_PRESS)
-            animator.PlayAnimation(&walkAnimation, NULL, 0.0f, 0.0f, 0.0f);
-        if (glfwGetKey(window, GLFW_KEY_3) == GLFW_PRESS)
-            animator.PlayAnimation(&attackAnimation, NULL, 0.0f, 0.0f, 0.0f);
-        if (glfwGetKey(window, GLFW_KEY_4) == GLFW_PRESS)
-            animator.PlayAnimation(&kickAnimation, NULL, 0.0f, 0.0f, 0.0f);
-        if (glfwGetKey(window, GLFW_KEY_5) == GLFW_PRESS)
-            animator.PlayAnimation(&turnAnimation, NULL, 0.0f, 0.0f, 0.0f);
 
 
         // player animation state
