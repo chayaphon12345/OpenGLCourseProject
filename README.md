@@ -20,3 +20,8 @@ You can buy some useful item from the merchant, but you also need some money to 
 
 https://github.com/user-attachments/assets/b13f4154-40b8-4951-aa48-65e241528644
 
+itch.io: 
+
+Model Assets:
+  - Knight / Zombie Models: https://www.mixamo.com/
+  - Map: https://sketchfab.com/3d-models/dungeon-04672ee860754483956c438fe92bc9f7
