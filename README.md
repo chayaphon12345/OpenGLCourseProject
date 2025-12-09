@@ -4,13 +4,13 @@ This game is a adventure game, develop by C++ and openGL.
 You are a knight who have to fight horde of zombie to save your kingdom before its fallen.
 
 How to control
-WASD - to walk
-Space - to attack
-M - to trade with a merchant
-Up/Down - to select choice
-Left/Right - to select item on a shop
-C - to confirm
-1/2/3 - to use item in inventory
+ - WASD - to walk
+ - Space - to attack
+ - M - to trade with a merchant
+ - Up/Down - to select choice
+ - Left/Right - to select item on a shop
+ - C - to confirm
+ - 1/2/3 - to use item in inventory
 
 You can buy some useful item from the merchant, but you also need some money to buy them. You can receive money through killing the zombie.
 
